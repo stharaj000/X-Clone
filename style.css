@@ -1,0 +1,76 @@
+:root {
+    color-scheme: dark;
+  }
+
+
+
+.subscribe{
+    border-radius: 20px;
+    border-color: rgba(255, 255, 255, 0.336); 
+}
+
+.search_inp{
+    background-color: #202327;
+    width: 340px;
+    padding: 12px;
+    padding-left: 30px;
+}
+
+.Trends{
+    border-radius: 20px;
+    border-color: rgba(255, 255, 255, 0.336);
+}
+
+
+.card:hover{
+    background-color: rgba(128, 128, 128, 0.075);
+    cursor: pointer;
+}
+
+.card{
+    gap: 145px;
+}
+
+.dot:hover{
+    border: 2px solid rgba(0, 0, 255, 0.13);
+    border-radius: 300px;
+    background-color: rgba(8, 161, 161, 0.288);
+    transition: all 1.5s;
+}
+
+
+.threedot{
+    margin-left: 45px;
+}
+
+
+
+.wtf_threedot{
+    margin-left: 103px;
+}
+
+
+.WTF{
+    border-radius: 20px;
+    border-color: rgba(255, 255, 255, 0.336);
+}
+
+.name:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.wtf_button{
+    margin-left: 55px;
+}
+
+
+.trend_card{
+    color: rgb(7, 135, 204);
+}
+
+.trend_card:hover{
+    background-color: rgba(128, 128, 128, 0.075);
+    cursor: pointer;
+}
+
